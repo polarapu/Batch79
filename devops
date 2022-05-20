@@ -51,7 +51,17 @@ git reset --hard cid (to delete commit and data)
 
 
 
-
+==================================
+git clone https://github.com/polarapu/Batch79.git
+ls
+cd Batch79
+ls
+touch add file1
+git status
+git commit -m "file1"
+git status
+git log
+git push
 
 
 
